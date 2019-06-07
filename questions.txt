@@ -37,7 +37,7 @@ réponse: Le plugin Advanced Custom Fields est un puissant outil gratuit et intu
 réponse: il permet aux développeurs de séparer l’interface frontale de la gestion des données, permettant à toute application d’interagir avec WordPress.
 
 13- Est-ce que l'API wordpress permet de modifier le site web ? quid de la sécurité ?
-réponse:
+réponse: oui ont peut modifier. les securité et information sont public.
 
 14- Qu'est ce que la wordpress loop ?
 réponse: Le code à travers laquelle WordPress va passer pour afficher chaque Post. La boucle, ou son nom original « The Loop », est le noyau dur de WordPress. 
